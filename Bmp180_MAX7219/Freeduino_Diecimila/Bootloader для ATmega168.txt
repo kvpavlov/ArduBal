@@ -1,0 +1,5 @@
+ATmegaBOOT_168_atmega328.hex - Bootloader для ATmega328
+Фьюзы Low: FF   High: DA   Ext: 05
+
+ATmegaBOOT_168_diecimila.hex - Bootloader для ATmega168
+Фьюзы Low: FF   High: DD   Ext: 00
